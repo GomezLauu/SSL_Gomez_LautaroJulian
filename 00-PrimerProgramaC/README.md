@@ -1,1 +1,1 @@
-resolucion tp0 skibidisdgsdgsdgsdgsdg
+resolucion tp0
