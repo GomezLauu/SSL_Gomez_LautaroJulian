@@ -1,1 +1,1 @@
-resolucion tp0 nueva prueba nrrrer
+resolucion tp0 , primera prueba

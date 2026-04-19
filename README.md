@@ -1,1 +1,1 @@
-Este es mi repo de sintaxis y semantica de los lenguajes fff
+Este es mi repo de sintaxis y semantica de los lenguajes
